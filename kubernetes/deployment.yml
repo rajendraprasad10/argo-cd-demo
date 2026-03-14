@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: fatapiwebapp
-        image: 906353/app:v1.0
+        image: 906353/app:v1.1
         ports:
         - containerPort: 8000
 ---
